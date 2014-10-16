@@ -1,2 +1,5 @@
 test:
-  categories: [A,B]
+  categories:
+    except:
+      - A
+      - C
